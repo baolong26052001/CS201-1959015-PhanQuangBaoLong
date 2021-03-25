@@ -1,0 +1,137 @@
+h1,
+h2,
+h3,
+nav li {
+  font-family: "Kiwi Maru", serif;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+}
+.navbar {
+  background: rgb(202, 201, 201) !important;
+}
+.navbar a {
+  color: black !important;
+}
+.banner img {
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+.watch img {
+  width: 5%;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.watch {
+  display: flex;
+}
+.watch h4 {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.texttext {
+  display: flex;
+}
+.texttext a {
+  margin-left: 10px;
+}
+.icon {
+  width: 5%;
+  float: right;
+  margin-left: 5px;
+  margin-top: 8px;
+}
+.onethree {
+  margin-top: 5px;
+}
+.newpro h4 {
+  color: blue;
+  text-align: center;
+}
+.blue {
+  background: rgb(11, 181, 211);
+}
+.away {
+  margin-left: 30px;
+  justify-content: center;
+}
+
+.centerall {
+  justify-content: center;
+}
+h2 {
+  color: white;
+  font-size: 25px;
+}
+.title {
+  margin-left: 30px;
+}
+.car {
+  margin-left: 100px;
+}
+.arrow {
+  margin-left: 150px;
+}
+
+p {
+  color: white;
+  margin-left: 10px;
+}
+.blueblue .col-md-4 {
+  background: rgb(11, 181, 211);
+}
+.blueblue .col-md-3 {
+  background: rgb(11, 181, 211);
+}
+.blueblue .row {
+  justify-content: center;
+}
+.textnextperson {
+  display: flex;
+}
+.justtext {
+  display: flex;
+}
+.black {
+  color: black;
+}
+button {
+  background: rgb(11, 181, 211);
+  border-radius: 10px;
+  color: white;
+}
+.cancelReload {
+  text-decoration: none;
+}
+.inputandbutton {
+  display: flex;
+}
+footer {
+  background: rgb(179, 176, 176);
+}
+.nholai {
+  font-size: 10px;
+}
+.canhlai {
+  display:flex;
+  margin-top:5px;
+}
+.hinh1 {
+  width: 150px;
+}
+.hinh2 {
+  width: 150px;
+}
+.hinh3 {
+  width: 150px;
+}
+.hinh4 {
+  width: 150px;
+}
+footer ul {
+  list-style-type: none;
+}
